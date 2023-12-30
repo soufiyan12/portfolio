@@ -4,7 +4,7 @@
 
 ## Work Experience
 **Data Engineer @ Ag2rLaMondiale (_August 2023 - Present_)**
-* Project : Building EDA Solution on Confluent Cloud
+***Project : Building EDA Solution on Confluent Cloud***
 - Client consultation for comprehensive business understanding.
 - Collaboration with architects to shape project vision.
 - Writing architecture and specification documents
